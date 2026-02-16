@@ -11,8 +11,8 @@ async function runReport() {
 
         // The aggregation: save all data in an array (results)
         const results = await collection.aggregate([
-            { $group: { _id: "$officeId", count: { $sum: 1 }, avgTemp: { $avg: "$temperature" } } },
-            { $sort: { count: -1 } }
+            { $group: { _id: "$officeId", avgTemp: { $avg: "$temperature" } } },
+            { $sort: { avgTemp: -1 } }
         ]).toArray(); 
         console.log(results);
     } catch (err) {
@@ -21,5 +21,4 @@ async function runReport() {
         await client.close();
     }
 }
-
 runReport();
