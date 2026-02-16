@@ -1,4 +1,5 @@
 const { MongoClient } = require('mongodb');
+const fs = require('fs');
 
 async function datuakAtera() {
     const client = new MongoClient("mongodb://localhost:27017");  // Zerbitzarira konexioa
