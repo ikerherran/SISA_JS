@@ -1,3 +1,9 @@
+/*
+* Hemen piskat zailagoa da fitxategia sortzea, JSON-ekin ez bezala, ezin daiteke zuzenean datuak CSV-ra pasa,
+* beraz, 'eskuz' egin behar da. Array-a banan-banan irakurri eta CSV fitxeroa eraiki.
+* CSV-ak ulertzeko: https://es.wikipedia.org/wiki/Valores_separados_por_comas
+*/
+
 const { MongoClient } = require('mongodb');
 const fs = require('fs');
 
