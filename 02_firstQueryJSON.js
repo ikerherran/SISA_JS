@@ -2,8 +2,6 @@
 * Queriaren emaitza JSON formatuan esportatuko da fitxategi batera, zuenean egin daiteke 
 * transformazioa JSON.stringify erabiliz.
 */
-
-
 const { MongoClient } = require('mongodb');
 const fs = require('fs');
 
