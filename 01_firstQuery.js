@@ -6,13 +6,13 @@ async function datuakAtera() {
 
     try {
         await client.connect();
-        const db = client.db('offices_2026');  // datubasearen izena
-        const collection = db.collection('offices_temp_humidity'); // bildumaren izena
+        const db = client.db('airbnb');  // datubasearen izena
+        const collection = db.collection('data'); // bildumaren izena
 
         // Orain query-a exekutatu eta array baten (results izena jarri diogu) gordeko dira emaitzak
         const results = await collection.aggregate([
-            { $group: { _id: "$officeId", avgTemp: { $avg: "$temperature" } } },
-            { $sort: { avgTemp: -1 } }
+            { $group: { _id: "$property_type", count: { $sum: 1 } } },
+            { $sort: { count: -1 } }
         ]).toArray();  
         console.log(results);  // pantailan array-aren edukia erakutsi
     } catch (err) {
