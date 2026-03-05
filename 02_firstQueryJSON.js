@@ -1,6 +1,6 @@
 /*
-* Queriaren emaitza JSON formatuan esportatuko da fitxategi batera, zuenean egin daiteke 
-* transformazioa JSON.stringify erabiliz.
+* Queriaren emaitza JSON formatuan esportatuko da fitxategi batera.
+* Agregazioa erabiliz, datuak filtratu eta ordenatu ditugu.
 */
 const { MongoClient } = require('mongodb');
 const fs = require('fs');
@@ -11,22 +11,36 @@ async function datuakAtera() {
     try {
         await client.connect();
         const db = client.db('offices_2026');
-        const collection = db.collection('offices_temp_humidity');
+        const collection = db.collection('pollution_data');
 
-        const results = await collection.aggregate([
-            { $group: { _id: "$officeId", avgTemp: { $avg: "$temperature" } } },
-            { $sort: { avgTemp: -1 } }
-        ]).toArray();
+        // Aggregation pipeline definition
+        const pipeline = [
+            {
+                // 1. Filter: extract only documents from 2026-02-11
+                $match: {
+                    timestamp: {
+                        $gte: new Date("2026-02-11T00:00:00Z"),
+                        $lt:  new Date("2026-02-12T00:00:00Z")
+                    }
+                }
+            },
+            {
+                // 2. Sort: order by timestamp ascending
+                $sort: { timestamp: 1 }
+            }
+        ];
 
-        // Mongodb-tik atera dugun array-a zuzenean json-era bihurtu
-        var jsonContent = JSON.stringify(results,null,2);  // null,2 jarrita formmatua 'politagoa' da.
+        const results = await collection.aggregate(pipeline).toArray();
 
-        // Orain fitxategi baten gorde jsonContent-en daukagun dena
-        fs.writeFileSync('offices_report.json', jsonContent);
-        console.log("Done! JSON file created: offices_report.json");
+        // Bihurtu emaitza JSON formatura
+        var jsonContent = JSON.stringify(results, null, 2); 
+
+        // Gorde fitxategian
+        fs.writeFileSync('pollution_20250211.json', jsonContent);
+        console.log(`Success! ${results.length} documents exported using aggregation.`);
 
     } catch (err) {
-        console.error("Error:", err);
+        console.error("Error details:", err);
     } finally {
         await client.close();
     }

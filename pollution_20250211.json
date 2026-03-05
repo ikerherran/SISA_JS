@@ -1,0 +1,2072 @@
+[
+  {
+    "_id": "698c6ac18423bd18ccda8078",
+    "timestamp": "2026-02-11T11:40:49.960Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 38.52,
+    "pollutant_CO_ppm": 2.31,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6ac18423bd18ccda8079",
+    "timestamp": "2026-02-11T11:40:49.961Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.85,
+    "pollutant_CO_ppm": 1.35,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6ac18423bd18ccda807a",
+    "timestamp": "2026-02-11T11:40:49.961Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 56.36,
+    "pollutant_CO_ppm": 3.65,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6afd8423bd18ccda8130",
+    "timestamp": "2026-02-11T11:41:49.961Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 33.19,
+    "pollutant_CO_ppm": 1.27,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6afd8423bd18ccda8131",
+    "timestamp": "2026-02-11T11:41:49.961Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 18.56,
+    "pollutant_CO_ppm": 1,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6afd8423bd18ccda8132",
+    "timestamp": "2026-02-11T11:41:49.962Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.86,
+    "pollutant_CO_ppm": 4.66,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6b398423bd18ccda81e4",
+    "timestamp": "2026-02-11T11:42:49.969Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 27.26,
+    "pollutant_CO_ppm": 1.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6b398423bd18ccda81e5",
+    "timestamp": "2026-02-11T11:42:49.969Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.37,
+    "pollutant_CO_ppm": 1.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6b398423bd18ccda81e6",
+    "timestamp": "2026-02-11T11:42:49.969Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 74.7,
+    "pollutant_CO_ppm": 5.25,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6b758423bd18ccda8298",
+    "timestamp": "2026-02-11T11:43:49.976Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 24.85,
+    "pollutant_CO_ppm": 2.31,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6b758423bd18ccda8299",
+    "timestamp": "2026-02-11T11:43:49.977Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.07,
+    "pollutant_CO_ppm": 1.34,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6b758423bd18ccda829a",
+    "timestamp": "2026-02-11T11:43:49.977Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 56.74,
+    "pollutant_CO_ppm": 6.49,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6bb18423bd18ccda834b",
+    "timestamp": "2026-02-11T11:44:49.986Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.8,
+    "pollutant_CO_ppm": 1.6,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6bb18423bd18ccda834c",
+    "timestamp": "2026-02-11T11:44:49.986Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 18.58,
+    "pollutant_CO_ppm": 1.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6bb18423bd18ccda834d",
+    "timestamp": "2026-02-11T11:44:49.986Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 79.82,
+    "pollutant_CO_ppm": 4.65,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6bed8423bd18ccda83fa",
+    "timestamp": "2026-02-11T11:45:49.995Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 20.82,
+    "pollutant_CO_ppm": 1.93,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6bed8423bd18ccda83fb",
+    "timestamp": "2026-02-11T11:45:49.995Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.68,
+    "pollutant_CO_ppm": 1.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6bed8423bd18ccda83fc",
+    "timestamp": "2026-02-11T11:45:49.996Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 45.79,
+    "pollutant_CO_ppm": 4.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6c298423bd18ccda84b2",
+    "timestamp": "2026-02-11T11:46:49.995Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 35.84,
+    "pollutant_CO_ppm": 1.68,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6c298423bd18ccda84b3",
+    "timestamp": "2026-02-11T11:46:49.995Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 16.29,
+    "pollutant_CO_ppm": 1.49,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6c298423bd18ccda84b4",
+    "timestamp": "2026-02-11T11:46:49.995Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 72.22,
+    "pollutant_CO_ppm": 4.33,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6c658423bd18ccda8560",
+    "timestamp": "2026-02-11T11:47:49.997Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 20.92,
+    "pollutant_CO_ppm": 1.71,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6c658423bd18ccda8561",
+    "timestamp": "2026-02-11T11:47:49.997Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 16.88,
+    "pollutant_CO_ppm": 1.06,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6c658423bd18ccda8562",
+    "timestamp": "2026-02-11T11:47:49.998Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.84,
+    "pollutant_CO_ppm": 5.6,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6ca28423bd18ccda8612",
+    "timestamp": "2026-02-11T11:48:50.001Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 23.96,
+    "pollutant_CO_ppm": 1.5,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6ca28423bd18ccda8613",
+    "timestamp": "2026-02-11T11:48:50.001Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.98,
+    "pollutant_CO_ppm": 1.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6ca28423bd18ccda8614",
+    "timestamp": "2026-02-11T11:48:50.001Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.24,
+    "pollutant_CO_ppm": 4.29,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6cde8423bd18ccda86c6",
+    "timestamp": "2026-02-11T11:49:50.014Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.82,
+    "pollutant_CO_ppm": 2.14,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6cde8423bd18ccda86c7",
+    "timestamp": "2026-02-11T11:49:50.014Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.47,
+    "pollutant_CO_ppm": 1.16,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6cde8423bd18ccda86c8",
+    "timestamp": "2026-02-11T11:49:50.014Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 50.2,
+    "pollutant_CO_ppm": 4.52,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6d1a8423bd18ccda8774",
+    "timestamp": "2026-02-11T11:50:50.019Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.68,
+    "pollutant_CO_ppm": 2.06,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6d1a8423bd18ccda8775",
+    "timestamp": "2026-02-11T11:50:50.019Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.08,
+    "pollutant_CO_ppm": 0.98,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6d1a8423bd18ccda8776",
+    "timestamp": "2026-02-11T11:50:50.019Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 61.74,
+    "pollutant_CO_ppm": 5.13,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6d828423bd18ccda8898",
+    "timestamp": "2026-02-11T11:52:34.851Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.97,
+    "pollutant_CO_ppm": 1.71,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6d828423bd18ccda889a",
+    "timestamp": "2026-02-11T11:52:34.851Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 58.43,
+    "pollutant_CO_ppm": 5.79,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6d828423bd18ccda8899",
+    "timestamp": "2026-02-11T11:52:34.851Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.02,
+    "pollutant_CO_ppm": 0.94,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6dbe8423bd18ccda8947",
+    "timestamp": "2026-02-11T11:53:34.854Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 28.23,
+    "pollutant_CO_ppm": 1.96,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6dbe8423bd18ccda8948",
+    "timestamp": "2026-02-11T11:53:34.854Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.76,
+    "pollutant_CO_ppm": 0.89,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6dbe8423bd18ccda8949",
+    "timestamp": "2026-02-11T11:53:34.854Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 78.23,
+    "pollutant_CO_ppm": 3.4,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6dfa8423bd18ccda89f2",
+    "timestamp": "2026-02-11T11:54:34.862Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 23.2,
+    "pollutant_CO_ppm": 2.12,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6dfa8423bd18ccda89f3",
+    "timestamp": "2026-02-11T11:54:34.862Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.16,
+    "pollutant_CO_ppm": 0.93,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6dfa8423bd18ccda89f4",
+    "timestamp": "2026-02-11T11:54:34.863Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 63.33,
+    "pollutant_CO_ppm": 4.76,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6e368423bd18ccda8aa3",
+    "timestamp": "2026-02-11T11:55:34.865Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 29.92,
+    "pollutant_CO_ppm": 1.81,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6e368423bd18ccda8aa4",
+    "timestamp": "2026-02-11T11:55:34.866Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 18.44,
+    "pollutant_CO_ppm": 1.5,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6e368423bd18ccda8aa5",
+    "timestamp": "2026-02-11T11:55:34.866Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 50.18,
+    "pollutant_CO_ppm": 3.3,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6e728423bd18ccda8b54",
+    "timestamp": "2026-02-11T11:56:34.867Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.48,
+    "pollutant_CO_ppm": 1.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6e728423bd18ccda8b55",
+    "timestamp": "2026-02-11T11:56:34.867Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.22,
+    "pollutant_CO_ppm": 1.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6e728423bd18ccda8b56",
+    "timestamp": "2026-02-11T11:56:34.867Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 70,
+    "pollutant_CO_ppm": 3.8,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6eae8423bd18ccda8bfd",
+    "timestamp": "2026-02-11T11:57:34.877Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 28.03,
+    "pollutant_CO_ppm": 2.19,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6eae8423bd18ccda8bfe",
+    "timestamp": "2026-02-11T11:57:34.877Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.84,
+    "pollutant_CO_ppm": 0.81,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6eae8423bd18ccda8bff",
+    "timestamp": "2026-02-11T11:57:34.878Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 71.1,
+    "pollutant_CO_ppm": 5.15,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6eea8423bd18ccda8ca7",
+    "timestamp": "2026-02-11T11:58:34.893Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 29.53,
+    "pollutant_CO_ppm": 1.5,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6eea8423bd18ccda8ca8",
+    "timestamp": "2026-02-11T11:58:34.893Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.32,
+    "pollutant_CO_ppm": 1.31,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6eea8423bd18ccda8ca9",
+    "timestamp": "2026-02-11T11:58:34.893Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 52.33,
+    "pollutant_CO_ppm": 4.08,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f268423bd18ccda8d50",
+    "timestamp": "2026-02-11T11:59:34.902Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 31.56,
+    "pollutant_CO_ppm": 1.76,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f268423bd18ccda8d51",
+    "timestamp": "2026-02-11T11:59:34.903Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.11,
+    "pollutant_CO_ppm": 1.3,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6f268423bd18ccda8d52",
+    "timestamp": "2026-02-11T11:59:34.903Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 60.92,
+    "pollutant_CO_ppm": 3.97,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f628423bd18ccda8e0a",
+    "timestamp": "2026-02-11T12:00:34.903Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 16.86,
+    "pollutant_CO_ppm": 1.45,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6f628423bd18ccda8e0b",
+    "timestamp": "2026-02-11T12:00:34.903Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 48.2,
+    "pollutant_CO_ppm": 4.08,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f628423bd18ccda8e09",
+    "timestamp": "2026-02-11T12:00:34.903Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 25.6,
+    "pollutant_CO_ppm": 2.07,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f9e8423bd18ccda8ebd",
+    "timestamp": "2026-02-11T12:01:34.909Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 31,
+    "pollutant_CO_ppm": 1.61,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6f9e8423bd18ccda8ebe",
+    "timestamp": "2026-02-11T12:01:34.909Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.48,
+    "pollutant_CO_ppm": 0.89,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6f9e8423bd18ccda8ebf",
+    "timestamp": "2026-02-11T12:01:34.909Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 64.76,
+    "pollutant_CO_ppm": 3.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6fda8423bd18ccda8f73",
+    "timestamp": "2026-02-11T12:02:34.923Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 22.19,
+    "pollutant_CO_ppm": 1.07,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c6fda8423bd18ccda8f74",
+    "timestamp": "2026-02-11T12:02:34.923Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.52,
+    "pollutant_CO_ppm": 0.98,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c6fda8423bd18ccda8f75",
+    "timestamp": "2026-02-11T12:02:34.923Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 55.33,
+    "pollutant_CO_ppm": 6.39,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70168423bd18ccda9030",
+    "timestamp": "2026-02-11T12:03:34.932Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 22.8,
+    "pollutant_CO_ppm": 2.47,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70168423bd18ccda9031",
+    "timestamp": "2026-02-11T12:03:34.933Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.54,
+    "pollutant_CO_ppm": 1.38,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c70168423bd18ccda9032",
+    "timestamp": "2026-02-11T12:03:34.933Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 69.11,
+    "pollutant_CO_ppm": 4.56,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70528423bd18ccda90d8",
+    "timestamp": "2026-02-11T12:04:34.936Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 31.38,
+    "pollutant_CO_ppm": 1.22,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70528423bd18ccda90d9",
+    "timestamp": "2026-02-11T12:04:34.936Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.83,
+    "pollutant_CO_ppm": 0.88,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c70528423bd18ccda90da",
+    "timestamp": "2026-02-11T12:04:34.936Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 52.36,
+    "pollutant_CO_ppm": 5.55,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c708e8423bd18ccda9186",
+    "timestamp": "2026-02-11T12:05:34.943Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 39.96,
+    "pollutant_CO_ppm": 1.39,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c708e8423bd18ccda9187",
+    "timestamp": "2026-02-11T12:05:34.943Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.3,
+    "pollutant_CO_ppm": 1.32,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c708e8423bd18ccda9188",
+    "timestamp": "2026-02-11T12:05:34.943Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 66.78,
+    "pollutant_CO_ppm": 4.26,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70ca8423bd18ccda9238",
+    "timestamp": "2026-02-11T12:06:34.948Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 34.56,
+    "pollutant_CO_ppm": 1.32,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c70ca8423bd18ccda9239",
+    "timestamp": "2026-02-11T12:06:34.948Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 18.81,
+    "pollutant_CO_ppm": 0.92,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c70ca8423bd18ccda923a",
+    "timestamp": "2026-02-11T12:06:34.948Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 54.19,
+    "pollutant_CO_ppm": 3.87,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71068423bd18ccda92e7",
+    "timestamp": "2026-02-11T12:07:34.963Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 32.27,
+    "pollutant_CO_ppm": 1.8,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71068423bd18ccda92e8",
+    "timestamp": "2026-02-11T12:07:34.964Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.84,
+    "pollutant_CO_ppm": 0.89,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c71068423bd18ccda92e9",
+    "timestamp": "2026-02-11T12:07:34.964Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 59.95,
+    "pollutant_CO_ppm": 5.86,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71428423bd18ccda939b",
+    "timestamp": "2026-02-11T12:08:34.970Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 25.56,
+    "pollutant_CO_ppm": 1.4,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71428423bd18ccda939c",
+    "timestamp": "2026-02-11T12:08:34.970Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.45,
+    "pollutant_CO_ppm": 1.21,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c71428423bd18ccda939d",
+    "timestamp": "2026-02-11T12:08:34.970Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 66.36,
+    "pollutant_CO_ppm": 4.49,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c717e8423bd18ccda944d",
+    "timestamp": "2026-02-11T12:09:34.977Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 27.3,
+    "pollutant_CO_ppm": 2.02,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c717e8423bd18ccda944f",
+    "timestamp": "2026-02-11T12:09:34.977Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 67.08,
+    "pollutant_CO_ppm": 6.44,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c717e8423bd18ccda944e",
+    "timestamp": "2026-02-11T12:09:34.977Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.61,
+    "pollutant_CO_ppm": 1.42,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c71ba8423bd18ccda94f9",
+    "timestamp": "2026-02-11T12:10:34.988Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 20.14,
+    "pollutant_CO_ppm": 2.39,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71ba8423bd18ccda94fa",
+    "timestamp": "2026-02-11T12:10:34.988Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.28,
+    "pollutant_CO_ppm": 0.97,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c71ba8423bd18ccda94fb",
+    "timestamp": "2026-02-11T12:10:34.989Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 62.82,
+    "pollutant_CO_ppm": 4.21,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71f68423bd18ccda95ac",
+    "timestamp": "2026-02-11T12:11:34.991Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 20.11,
+    "pollutant_CO_ppm": 1.14,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c71f68423bd18ccda95ad",
+    "timestamp": "2026-02-11T12:11:34.991Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.11,
+    "pollutant_CO_ppm": 1.36,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c71f68423bd18ccda95ae",
+    "timestamp": "2026-02-11T12:11:34.991Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 58.57,
+    "pollutant_CO_ppm": 4.46,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72328423bd18ccda965b",
+    "timestamp": "2026-02-11T12:12:34.994Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 34.31,
+    "pollutant_CO_ppm": 1.61,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72328423bd18ccda965c",
+    "timestamp": "2026-02-11T12:12:34.994Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.88,
+    "pollutant_CO_ppm": 1.12,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c72328423bd18ccda965d",
+    "timestamp": "2026-02-11T12:12:34.994Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 77.24,
+    "pollutant_CO_ppm": 5.19,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c726f8423bd18ccda9712",
+    "timestamp": "2026-02-11T12:13:35.010Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 16.12,
+    "pollutant_CO_ppm": 1.03,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c726f8423bd18ccda9711",
+    "timestamp": "2026-02-11T12:13:35.010Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 22.68,
+    "pollutant_CO_ppm": 2.02,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c726f8423bd18ccda9713",
+    "timestamp": "2026-02-11T12:13:35.010Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.53,
+    "pollutant_CO_ppm": 3.9,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72ab8423bd18ccda97c0",
+    "timestamp": "2026-02-11T12:14:35.019Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 21.68,
+    "pollutant_CO_ppm": 1.71,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72ab8423bd18ccda97c1",
+    "timestamp": "2026-02-11T12:14:35.019Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.82,
+    "pollutant_CO_ppm": 1.45,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c72ab8423bd18ccda97c2",
+    "timestamp": "2026-02-11T12:14:35.020Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 78.75,
+    "pollutant_CO_ppm": 6.41,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72e78423bd18ccda986c",
+    "timestamp": "2026-02-11T12:15:35.034Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 24.03,
+    "pollutant_CO_ppm": 2.04,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c72e78423bd18ccda986d",
+    "timestamp": "2026-02-11T12:15:35.034Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.35,
+    "pollutant_CO_ppm": 1.08,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c72e78423bd18ccda986e",
+    "timestamp": "2026-02-11T12:15:35.034Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 79.15,
+    "pollutant_CO_ppm": 3.05,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c73238423bd18ccda991f",
+    "timestamp": "2026-02-11T12:16:35.045Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 22.34,
+    "pollutant_CO_ppm": 1.4,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c73238423bd18ccda9920",
+    "timestamp": "2026-02-11T12:16:35.045Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.98,
+    "pollutant_CO_ppm": 1.15,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c73238423bd18ccda9921",
+    "timestamp": "2026-02-11T12:16:35.046Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.47,
+    "pollutant_CO_ppm": 5.17,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c735f8423bd18ccda99ce",
+    "timestamp": "2026-02-11T12:17:35.056Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 38.69,
+    "pollutant_CO_ppm": 2.5,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c735f8423bd18ccda99cf",
+    "timestamp": "2026-02-11T12:17:35.056Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.57,
+    "pollutant_CO_ppm": 0.88,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c735f8423bd18ccda99d0",
+    "timestamp": "2026-02-11T12:17:35.056Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 61.66,
+    "pollutant_CO_ppm": 6.04,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c739b8423bd18ccda9a7f",
+    "timestamp": "2026-02-11T12:18:35.058Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 39.33,
+    "pollutant_CO_ppm": 2.45,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c739b8423bd18ccda9a80",
+    "timestamp": "2026-02-11T12:18:35.058Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.32,
+    "pollutant_CO_ppm": 1.27,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c739b8423bd18ccda9a81",
+    "timestamp": "2026-02-11T12:18:35.058Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 46.72,
+    "pollutant_CO_ppm": 5.05,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c73d78423bd18ccda9b2d",
+    "timestamp": "2026-02-11T12:19:35.069Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 24.1,
+    "pollutant_CO_ppm": 1.95,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c73d78423bd18ccda9b2e",
+    "timestamp": "2026-02-11T12:19:35.070Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.04,
+    "pollutant_CO_ppm": 0.85,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c73d78423bd18ccda9b2f",
+    "timestamp": "2026-02-11T12:19:35.070Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 57.16,
+    "pollutant_CO_ppm": 4.61,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c74138423bd18ccda9bd3",
+    "timestamp": "2026-02-11T12:20:35.084Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.6,
+    "pollutant_CO_ppm": 2.03,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c74138423bd18ccda9bd4",
+    "timestamp": "2026-02-11T12:20:35.084Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.37,
+    "pollutant_CO_ppm": 1.26,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c74138423bd18ccda9bd5",
+    "timestamp": "2026-02-11T12:20:35.084Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 65.03,
+    "pollutant_CO_ppm": 4.92,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c744f8423bd18ccda9c8d",
+    "timestamp": "2026-02-11T12:21:35.094Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 37.99,
+    "pollutant_CO_ppm": 1.16,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c744f8423bd18ccda9c8e",
+    "timestamp": "2026-02-11T12:21:35.094Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.63,
+    "pollutant_CO_ppm": 1.23,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c744f8423bd18ccda9c8f",
+    "timestamp": "2026-02-11T12:21:35.094Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 76.81,
+    "pollutant_CO_ppm": 3.29,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c748b8423bd18ccda9d3d",
+    "timestamp": "2026-02-11T12:22:35.108Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 24,
+    "pollutant_CO_ppm": 1.83,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c748b8423bd18ccda9d3e",
+    "timestamp": "2026-02-11T12:22:35.108Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.37,
+    "pollutant_CO_ppm": 1.36,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c748b8423bd18ccda9d3f",
+    "timestamp": "2026-02-11T12:22:35.108Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 70.16,
+    "pollutant_CO_ppm": 5.26,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c74c78423bd18ccda9de5",
+    "timestamp": "2026-02-11T12:23:35.116Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 39.96,
+    "pollutant_CO_ppm": 1.49,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c74c78423bd18ccda9de6",
+    "timestamp": "2026-02-11T12:23:35.116Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.25,
+    "pollutant_CO_ppm": 1.42,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c74c78423bd18ccda9de7",
+    "timestamp": "2026-02-11T12:23:35.116Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 68.91,
+    "pollutant_CO_ppm": 6.29,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75038423bd18ccda9e8c",
+    "timestamp": "2026-02-11T12:24:35.117Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 28.94,
+    "pollutant_CO_ppm": 1.78,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75038423bd18ccda9e8d",
+    "timestamp": "2026-02-11T12:24:35.117Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.79,
+    "pollutant_CO_ppm": 1.05,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c75038423bd18ccda9e8e",
+    "timestamp": "2026-02-11T12:24:35.117Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 66.65,
+    "pollutant_CO_ppm": 3.29,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c753f8423bd18ccda9f36",
+    "timestamp": "2026-02-11T12:25:35.121Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.36,
+    "pollutant_CO_ppm": 2.36,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c753f8423bd18ccda9f37",
+    "timestamp": "2026-02-11T12:25:35.121Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.92,
+    "pollutant_CO_ppm": 0.94,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c753f8423bd18ccda9f38",
+    "timestamp": "2026-02-11T12:25:35.121Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 55.52,
+    "pollutant_CO_ppm": 4.69,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c757b8423bd18ccda9fe7",
+    "timestamp": "2026-02-11T12:26:35.131Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 39.39,
+    "pollutant_CO_ppm": 1,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c757b8423bd18ccda9fe8",
+    "timestamp": "2026-02-11T12:26:35.131Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.57,
+    "pollutant_CO_ppm": 1.3,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c757b8423bd18ccda9fe9",
+    "timestamp": "2026-02-11T12:26:35.131Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 49.91,
+    "pollutant_CO_ppm": 5.81,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75b78423bd18ccdaa088",
+    "timestamp": "2026-02-11T12:27:35.137Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 38.66,
+    "pollutant_CO_ppm": 1.36,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75b78423bd18ccdaa089",
+    "timestamp": "2026-02-11T12:27:35.137Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.24,
+    "pollutant_CO_ppm": 1.11,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c75b78423bd18ccdaa08a",
+    "timestamp": "2026-02-11T12:27:35.137Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 50.13,
+    "pollutant_CO_ppm": 6.46,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75f38423bd18ccdaa109",
+    "timestamp": "2026-02-11T12:28:35.139Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 20.25,
+    "pollutant_CO_ppm": 2.18,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c75f38423bd18ccdaa10a",
+    "timestamp": "2026-02-11T12:28:35.139Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.99,
+    "pollutant_CO_ppm": 1,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c75f38423bd18ccdaa10b",
+    "timestamp": "2026-02-11T12:28:35.139Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 66.9,
+    "pollutant_CO_ppm": 5.88,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c762f8423bd18ccdaa1bc",
+    "timestamp": "2026-02-11T12:29:35.142Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 21.37,
+    "pollutant_CO_ppm": 1.68,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c762f8423bd18ccdaa1bd",
+    "timestamp": "2026-02-11T12:29:35.142Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.73,
+    "pollutant_CO_ppm": 0.95,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c762f8423bd18ccdaa1be",
+    "timestamp": "2026-02-11T12:29:35.142Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 67.96,
+    "pollutant_CO_ppm": 3.86,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c766b8423bd18ccdaa267",
+    "timestamp": "2026-02-11T12:30:35.158Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 25.29,
+    "pollutant_CO_ppm": 2.5,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c766b8423bd18ccdaa268",
+    "timestamp": "2026-02-11T12:30:35.158Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.43,
+    "pollutant_CO_ppm": 1.27,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c766b8423bd18ccdaa269",
+    "timestamp": "2026-02-11T12:30:35.158Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 79.65,
+    "pollutant_CO_ppm": 3.92,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c790e8423bd18ccdaa310",
+    "timestamp": "2026-02-11T12:41:50.048Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.56,
+    "pollutant_CO_ppm": 1.21,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c790e8423bd18ccdaa311",
+    "timestamp": "2026-02-11T12:41:50.048Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.47,
+    "pollutant_CO_ppm": 1.21,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c790e8423bd18ccdaa312",
+    "timestamp": "2026-02-11T12:41:50.048Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 49.05,
+    "pollutant_CO_ppm": 4.3,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c794a8423bd18ccdaa3b6",
+    "timestamp": "2026-02-11T12:42:50.060Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 39.05,
+    "pollutant_CO_ppm": 1.68,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c794a8423bd18ccdaa3b7",
+    "timestamp": "2026-02-11T12:42:50.061Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.75,
+    "pollutant_CO_ppm": 1.04,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c794a8423bd18ccdaa3b8",
+    "timestamp": "2026-02-11T12:42:50.061Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 70.77,
+    "pollutant_CO_ppm": 6.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79868423bd18ccdaa468",
+    "timestamp": "2026-02-11T12:43:50.065Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.8,
+    "pollutant_CO_ppm": 2.13,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79868423bd18ccdaa469",
+    "timestamp": "2026-02-11T12:43:50.065Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.55,
+    "pollutant_CO_ppm": 1.38,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c79868423bd18ccdaa46a",
+    "timestamp": "2026-02-11T12:43:50.065Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 50.99,
+    "pollutant_CO_ppm": 3.18,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79c28423bd18ccdaa510",
+    "timestamp": "2026-02-11T12:44:50.070Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.26,
+    "pollutant_CO_ppm": 1.42,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79c28423bd18ccdaa511",
+    "timestamp": "2026-02-11T12:44:50.070Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.63,
+    "pollutant_CO_ppm": 1.19,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c79c28423bd18ccdaa512",
+    "timestamp": "2026-02-11T12:44:50.070Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 67.52,
+    "pollutant_CO_ppm": 6.48,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79fe8423bd18ccdaa5c4",
+    "timestamp": "2026-02-11T12:45:50.075Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 34.24,
+    "pollutant_CO_ppm": 1.09,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c79fe8423bd18ccdaa5c5",
+    "timestamp": "2026-02-11T12:45:50.075Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 24.82,
+    "pollutant_CO_ppm": 0.86,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c79fe8423bd18ccdaa5c6",
+    "timestamp": "2026-02-11T12:45:50.075Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 78.86,
+    "pollutant_CO_ppm": 3.31,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7a3a8423bd18ccdaa674",
+    "timestamp": "2026-02-11T12:46:50.078Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.93,
+    "pollutant_CO_ppm": 1.14,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7a3a8423bd18ccdaa675",
+    "timestamp": "2026-02-11T12:46:50.078Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.82,
+    "pollutant_CO_ppm": 1.06,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7a3a8423bd18ccdaa676",
+    "timestamp": "2026-02-11T12:46:50.078Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 64.26,
+    "pollutant_CO_ppm": 4.92,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7a768423bd18ccdaa725",
+    "timestamp": "2026-02-11T12:47:50.079Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 26.55,
+    "pollutant_CO_ppm": 2.34,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7a768423bd18ccdaa726",
+    "timestamp": "2026-02-11T12:47:50.080Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 19.36,
+    "pollutant_CO_ppm": 0.88,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7a768423bd18ccdaa727",
+    "timestamp": "2026-02-11T12:47:50.080Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 69.55,
+    "pollutant_CO_ppm": 6.34,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7ab28423bd18ccdaa7cd",
+    "timestamp": "2026-02-11T12:48:50.089Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 26.84,
+    "pollutant_CO_ppm": 1.81,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7ab28423bd18ccdaa7ce",
+    "timestamp": "2026-02-11T12:48:50.089Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 15.05,
+    "pollutant_CO_ppm": 1.15,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7ab28423bd18ccdaa7cf",
+    "timestamp": "2026-02-11T12:48:50.089Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 70.72,
+    "pollutant_CO_ppm": 6.08,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7aee8423bd18ccdaa87f",
+    "timestamp": "2026-02-11T12:49:50.091Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.14,
+    "pollutant_CO_ppm": 2.23,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7aee8423bd18ccdaa880",
+    "timestamp": "2026-02-11T12:49:50.091Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 22.78,
+    "pollutant_CO_ppm": 1.03,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7aee8423bd18ccdaa881",
+    "timestamp": "2026-02-11T12:49:50.091Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 75.32,
+    "pollutant_CO_ppm": 5.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7b2a8423bd18ccdaa931",
+    "timestamp": "2026-02-11T12:50:50.094Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 31.32,
+    "pollutant_CO_ppm": 2.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7b2a8423bd18ccdaa932",
+    "timestamp": "2026-02-11T12:50:50.094Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.24,
+    "pollutant_CO_ppm": 1.4,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7b2a8423bd18ccdaa933",
+    "timestamp": "2026-02-11T12:50:50.094Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 51.77,
+    "pollutant_CO_ppm": 4.79,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7b668423bd18ccdaa9da",
+    "timestamp": "2026-02-11T12:51:50.108Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 32.48,
+    "pollutant_CO_ppm": 1.37,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7b668423bd18ccdaa9db",
+    "timestamp": "2026-02-11T12:51:50.108Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.59,
+    "pollutant_CO_ppm": 1.33,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7b668423bd18ccdaa9dc",
+    "timestamp": "2026-02-11T12:51:50.108Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 56.73,
+    "pollutant_CO_ppm": 5.25,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7ba28423bd18ccdaaa8b",
+    "timestamp": "2026-02-11T12:52:50.119Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 33.89,
+    "pollutant_CO_ppm": 1.8,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7ba28423bd18ccdaaa8c",
+    "timestamp": "2026-02-11T12:52:50.119Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.97,
+    "pollutant_CO_ppm": 1.08,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7ba28423bd18ccdaaa8d",
+    "timestamp": "2026-02-11T12:52:50.119Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 69.99,
+    "pollutant_CO_ppm": 3.35,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7bde8423bd18ccdaab3f",
+    "timestamp": "2026-02-11T12:53:50.135Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 25.76,
+    "pollutant_CO_ppm": 1.43,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7bde8423bd18ccdaab40",
+    "timestamp": "2026-02-11T12:53:50.135Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.98,
+    "pollutant_CO_ppm": 1.12,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7bde8423bd18ccdaab41",
+    "timestamp": "2026-02-11T12:53:50.135Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 61.22,
+    "pollutant_CO_ppm": 3.26,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c1a8423bd18ccdaabec",
+    "timestamp": "2026-02-11T12:54:50.138Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 35.67,
+    "pollutant_CO_ppm": 2.24,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c1a8423bd18ccdaabed",
+    "timestamp": "2026-02-11T12:54:50.138Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 21.26,
+    "pollutant_CO_ppm": 1.46,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7c1a8423bd18ccdaabee",
+    "timestamp": "2026-02-11T12:54:50.138Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 69.44,
+    "pollutant_CO_ppm": 5.56,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c568423bd18ccdaac9b",
+    "timestamp": "2026-02-11T12:55:50.153Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 34.59,
+    "pollutant_CO_ppm": 1.32,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c568423bd18ccdaac9c",
+    "timestamp": "2026-02-11T12:55:50.153Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 17.87,
+    "pollutant_CO_ppm": 0.82,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7c568423bd18ccdaac9d",
+    "timestamp": "2026-02-11T12:55:50.153Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 67.58,
+    "pollutant_CO_ppm": 3.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c928423bd18ccdaad4a",
+    "timestamp": "2026-02-11T12:56:50.159Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 36.69,
+    "pollutant_CO_ppm": 2.11,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7c928423bd18ccdaad4b",
+    "timestamp": "2026-02-11T12:56:50.159Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.17,
+    "pollutant_CO_ppm": 1.21,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7c928423bd18ccdaad4c",
+    "timestamp": "2026-02-11T12:56:50.159Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 60.64,
+    "pollutant_CO_ppm": 3.37,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7cce8423bd18ccdaae00",
+    "timestamp": "2026-02-11T12:57:50.162Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 30.98,
+    "pollutant_CO_ppm": 1.75,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7cce8423bd18ccdaae01",
+    "timestamp": "2026-02-11T12:57:50.162Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 20.43,
+    "pollutant_CO_ppm": 1.36,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7cce8423bd18ccdaae02",
+    "timestamp": "2026-02-11T12:57:50.162Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 54.25,
+    "pollutant_CO_ppm": 5.28,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7d0a8423bd18ccdaaeb5",
+    "timestamp": "2026-02-11T12:58:50.169Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 23.51,
+    "pollutant_CO_ppm": 1.84,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7d0a8423bd18ccdaaeb6",
+    "timestamp": "2026-02-11T12:58:50.169Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 18.12,
+    "pollutant_CO_ppm": 0.97,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7d0a8423bd18ccdaaeb7",
+    "timestamp": "2026-02-11T12:58:50.169Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 73.56,
+    "pollutant_CO_ppm": 3.01,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7d468423bd18ccdaaf5f",
+    "timestamp": "2026-02-11T12:59:50.170Z",
+    "location": "Avenue A",
+    "pollutant_SO2_ppb": 25.97,
+    "pollutant_CO_ppm": 1.31,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  },
+  {
+    "_id": "698c7d468423bd18ccdaaf60",
+    "timestamp": "2026-02-11T12:59:50.170Z",
+    "location": "Avenue B",
+    "pollutant_SO2_ppb": 23.53,
+    "pollutant_CO_ppm": 0.86,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "LOW_TRAFFIC"
+  },
+  {
+    "_id": "698c7d468423bd18ccdaaf61",
+    "timestamp": "2026-02-11T12:59:50.170Z",
+    "location": "Avenue C",
+    "pollutant_SO2_ppb": 69.87,
+    "pollutant_CO_ppm": 6.38,
+    "unit_SO2": "ppb",
+    "unit_CO": "ppm",
+    "status": "HEAVY_TRAFFIC"
+  }
+]
