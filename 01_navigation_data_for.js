@@ -29,7 +29,7 @@ async function datuakAtera() {
             batura += minutes;
         }
         console.log("Batura:", batura);
-        
+
       //  console.log(results);  // pantailan array-aren edukia erakutsi
     } catch (err) {
         console.error("Error:", err);
