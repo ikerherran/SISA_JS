@@ -6,13 +6,13 @@ async function datuakAtera() {
 
     try {
         await client.connect();
-        const db = client.db('airbnb');  // datubasearen izena
-        const collection = db.collection('data'); // bildumaren izena
+        const db = client.db('web-navigation');  // datubasearen izena
+        const collection = db.collection('traffic_logs'); // bildumaren izena
 
         // Orain query-a exekutatu eta array baten (results izena jarri diogu) gordeko dira emaitzak
         const results = await collection.aggregate([
-            { $group: { _id: "$property_type", count: { $sum: 1 } } },
-            { $sort: { count: -1 } }
+            { $match: { visitedWeb: "amazon.com"} },
+            { $project: {_id:0,userIP:1,visitedWeb:1,durationMinutes:{$dateDiff:{startDate:"$startDateTime", endDate: "$endDateTime",unit: "minute"}} }}
         ]).toArray();  
         console.log(results);  // pantailan array-aren edukia erakutsi
     } catch (err) {
