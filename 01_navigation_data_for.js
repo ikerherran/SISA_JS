@@ -1,3 +1,11 @@
+/*
+1. Importatu MongoClient
+2. Konexioa ezarri
+3. Datuak atera
+4. For batekin batu minutuak 
+5. Batura eta emaitza erakutsi
+*/
+
 const { MongoClient } = require('mongodb');
 //const fs = require('fs');
 //------------------------------------------------------------------------------
