@@ -1,12 +1,3 @@
-/*
-1. Importatu MongoClient
-2. Konexioa ezarri
-3. Datuak atera
-4. For batekin batu minutuak 
-5. Batura eta emaitza erakutsi
-BEREZITASUNA: ALDAGAI GLOBAL BAT DAGO NON DATUAK GORDEKO DIREN
-*/
-
 const { MongoClient } = require('mongodb');
 
 let batura_txina = 0;
@@ -62,8 +53,6 @@ async function batura_kalkulatu() {
         }
     }
 }
-
-
 //-----------------PROGRAMA NAGUSIA-------------------------------------------------
 async function main() {
     
@@ -72,7 +61,6 @@ async function main() {
   
     console.log("Batura_txina:", batura_txina);
     console.log("Batura_portugal:", batura_portugal);
-    
 }
 
 // -------------EXEKUZIO AGINDUA
