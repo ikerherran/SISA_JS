@@ -52,9 +52,10 @@ async function batazbeste_kalkulatu() {
 
 //-----------------PROGRAMA NAGUSIA-------------------------------------------------
 async function main() {
-    await datuakAtera();
-    await batura_kalkulatu();
-    await batazbeste_kalkulatu();
+    
+    await datuakAtera();  // results aldagai globalean datubaseko datuak sartzen ditu
+    await batura_kalkulatu(); // batura aldagai globalean batuketa gordetzen du
+    await batazbeste_kalkulatu(); // batazbeste aldagai globalean batazbestekoa gordetzen du
     console.log("Batura:", batura);
     console.log("Batazbeste:", batazbeste);
 }
