@@ -8,9 +8,11 @@ BEREZITASUNA: ALDAGAI GLOBAL BAT DAGO NON DATUAK GORDEKO DIREN
 */
 
 const { MongoClient } = require('mongodb');
-let batura = 0;  // ALDAGAI GLOBALA
 
-//--------------konexioa egiten eta kalkuloa duen funtzioa-
+let batura = 0;
+let batazbeste=0;
+let results = [];
+//------------------------------------------------------------------------------
 async function datuakAtera() {
     const client = new MongoClient("mongodb://localhost:27017");  // Zerbitzarira konexioa
 
@@ -20,30 +22,41 @@ async function datuakAtera() {
         const collection = db.collection('traffic_logs'); // bildumaren izena
 
         // Orain query-a exekutatu eta array baten (results izena jarri diogu) gordeko dira emaitzak
-        const results = await collection.aggregate([
+        results = await collection.aggregate([
             { $match: { visitedWeb: "amazon.com"} },
             { $project: {_id:0,userIP:1,visitedWeb:1,durationMinutes:{$dateDiff:{startDate:"$startDateTime", endDate: "$endDateTime",unit: "minute"}} }}
         ]).toArray();  
 
-        // 'batura' aldagai globala 0-ra hasieratu
-        batura = 0;
-        // 'results' array-ko elementu bakoitzetik pasatu for erabiliz
-        for (let i = 0; i < results.length; i++) {
-            // Dagokion elemetuko minutu horiek baturari gehitu 
-            batura += results[i].durationMinutes;
-        }
+
     } catch (err) {
         console.error("Error:", err);
     } finally {
         await client.close();
     }
 }
+
+async function batura_kalkulatu() {
+    batura = 0;
+    for (let i = 0; i < results.length; i++) {
+        batura += results[i].durationMinutes;
+    }
+}
+
+async function batazbeste_kalkulatu() {
+    if (results.length > 0) {
+        batazbeste = batura / results.length;
+    } else {
+        batazbeste = 0;
+    }
+}
+
 //-----------------PROGRAMA NAGUSIA-------------------------------------------------
 async function main() {
-    console.log("Ongi etorri, datuak kontsultatuko ditut.");
     await datuakAtera();
+    await batura_kalkulatu();
+    await batazbeste_kalkulatu();
     console.log("Batura:", batura);
-
+    console.log("Batazbeste:", batazbeste);
 }
 
 // -------------EXEKUZIO AGINDUA

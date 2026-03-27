@@ -44,6 +44,8 @@ async function datuakAtera() {
 //-----------------PROGRAMA NAGUSIA-------------------------------------------------
 async function main() {
     await datuakAtera();
+    await batura_kalkulatu();
+    await batazbeste_kalkulatu();
     console.log("Batura:", batura);
     console.log("Batazbeste:", batazbeste);
 }

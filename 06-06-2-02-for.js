@@ -7,7 +7,7 @@
 */
 
 const { MongoClient } = require('mongodb');
-//const fs = require('fs');
+
 //------------------------------------------------------------------------------
 async function datuakAtera() {
     const client = new MongoClient("mongodb://localhost:27017");  // Zerbitzarira konexioa
@@ -25,8 +25,8 @@ async function datuakAtera() {
 
         let batura = 0;
         for (let i = 0; i < results.length; i++) {
-            let minutes = results[i].durationMinutes;
-            batura += minutes;
+            
+            batura= batura+results[i].durationMinutes;
         }
         console.log("Batura:", batura);
 
